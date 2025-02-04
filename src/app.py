@@ -1,6 +1,6 @@
 import streamlit as st
-import sounddevice as sd
-import scipy.io.wavfile as wav
+# import sounddevice as sd
+# import scipy.io.wavfile as wav
 from helper import *
 
 st.set_page_config(layout="centered")
